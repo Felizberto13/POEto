@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PoetAberto</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>PoetAberto</h1>
+        <nav>
+            <ul>
+                <li><a href="#">Leitura</a></li>
+                <li><a href="#">Adicionar Poema</a></li>
+                <li><a href="#">Livros</a></li>
+                <li><a href="#">Concursos</a></li>
+                <li><a href="#">Vídeos</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <!-- Conteúdo principal aqui -->
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
